@@ -1,0 +1,23 @@
+{
+  "name": "node-app-v2",
+  "version": "1.0.0",
+  "description": "This is a better and snazzier version of Reminder App.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/benmaudslay/node-reminder-app-v2.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/benmaudslay/node-reminder-app-v2/issues"
+  },
+  "homepage": "https://github.com/benmaudslay/node-reminder-app-v2#readme",
+  "dependencies": {
+    "yargs": "^16.2.0"
+  }
+}
