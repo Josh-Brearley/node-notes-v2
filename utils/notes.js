@@ -34,10 +34,10 @@ const removeNote = (noteToDelete) => {
 
   try {
     const itemToDelete = noteToDelete - 1;
-    console.log(allNotes[itemToDelete]);
-    console.log(noteToDelete.remove);
+    // console.log(allNotes[itemToDelete]);
+    // console.log(noteToDelete.remove);
     const removedItem = allNotes.splice(itemToDelete, 1);
-    console.log(removedItem);
+    // console.log(removedItem);
     console.log(`Successfully removed ${removedItem[0].reminder}`);
   } catch (error) {
     console.log("Number out of range");

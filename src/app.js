@@ -20,12 +20,12 @@ const removeQuestion = [
   {
     type: "input",
     name: "remove",
-    message: "What would you like to remove? Please type a number",
+    message: "What would you like to remove? Enter a number.",
   },
 ];
 
 const main = () => {
-  console.log(chalk.blue(figlet.textSync("Notes App")));
+  console.log(chalk.blue(figlet.textSync("Notes")));
   app();
 };
 

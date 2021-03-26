@@ -1,5 +1,6 @@
-# Reminder App v2
+# Reminder App v2.0
 
-This is a better and snazzier version of Reminder App.
+This is a notes app created with Node.js with the potential for adding a MongoDB 
+backend to store data. 
 
-It will eventually store data in MongoDB rather than locally.
+Credits: Ben Maudslay - Teacher. 
